@@ -1,2 +1,2 @@
 # Assembly
-Program that translates basic Java instructions to assembly  
+Program that translates basic Java instructions to assembly language  
